@@ -7,8 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<nav>네비게이션</nav>
 Hello world!!
 commit4444
 commit5
+<footer>푸터 추가</footer>
 </body>
+<script>
+    console.log('hello vs code');
+</script>
 </html>
