@@ -15,5 +15,6 @@ commit5
 </body>
 <script>
     console.log('hello vs code');
+    alert('hello');
 </script>
 </html>
